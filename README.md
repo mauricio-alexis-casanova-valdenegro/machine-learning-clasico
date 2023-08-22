@@ -8,7 +8,7 @@ Portafolio de machine learning clasicos como lo son KNN,RamdomForest, naive-baye
 *[LinkedIn](https://www.linkedin.com/in/mauricio-alexis-casanova-valdenegro-591173262/)
 
 ## Ejemplos
-*[ENLACEGITHUBPAGE][enlacegithubpage]
+*[ENLACEGITHUBPAGE](enlacegithubpage)
 
 ## Contratacion
 
