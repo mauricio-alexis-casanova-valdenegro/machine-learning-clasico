@@ -1,6 +1,6 @@
 # Descripcion
 
-Portafolio de machine learning clasicos como lo son KNN,RamdomForest, naive-bayes, SVM
+Portafolio de machine learning clasicos como lo son KNN,Random Forest, naive-bayes, SVM
 
 ## Autor
 ** Mauricio Casanova**
