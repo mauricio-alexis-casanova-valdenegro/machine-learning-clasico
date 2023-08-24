@@ -9,6 +9,7 @@ Portafolio de machine learning clasicos como lo son KNN,RamdomForest, naive-baye
 
 ## Ejemplos
 *[Regresión Lineal](https://github.com/mauricio-alexis-casanova-valdenegro/machine-learning-clasico/blob/main/supervisado/Regresion_lineal.ipynb)
+*[K-NN](https://github.com/mauricio-alexis-casanova-valdenegro/machine-learning-clasico/blob/main/supervisado/K-NN.ipynb)
 ## Contratacion
 
 Si quieres contratarme puedes escribirme a mauricio.casanova.v@gmail.com
