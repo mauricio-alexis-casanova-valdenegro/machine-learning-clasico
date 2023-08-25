@@ -14,6 +14,8 @@ Portafolio de machine learning clasicos como lo son KNN,Random Forest, naive-bay
 
 *[Random Forest Regression](https://github.com/mauricio-alexis-casanova-valdenegro/machine-learning-clasico/blob/main/supervisado/Random_forest_regression/Random_Forest_regression%20.ipynb)
 
+*[Support Vector Machines](https://github.com/mauricio-alexis-casanova-valdenegro/machine-learning-clasico/blob/main/supervisado/Support_Vector_Machines_(SVM).ipynb)
+
 ## Contratacion
 
 Si quieres contratarme puedes escribirme a mauricio.casanova.v@gmail.com
